@@ -2,6 +2,8 @@
 
 A professional-grade, modular User Authentication System built from scratch using Native PHP and MySQL. This project demonstrates clean coding practices, secure session management, and protection against common web vulnerabilities.
 
+[Video Tutorial](https://youtu.be/R-Hs_qfc8Zw)
+
 ## 🚀 Features
 
 - **Secure Registration:** Validates user inputs (email, password strength, matching confirmation) before persisting to the database.
@@ -44,8 +46,7 @@ A professional-grade, modular User Authentication System built from scratch usin
 1. **Clone the repository:**
 
 ```bash
-git clone [https://github.com/CodeZelo/secure-php-auth.git](https://github.com/CodeZelo/secure-php-auth.git)
-
+git clone[https://github.com/CodeZelo/secure-php-auth.git
 ```
 
 2. **Database Setup:**
