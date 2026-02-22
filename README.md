@@ -46,7 +46,7 @@ A professional-grade, modular User Authentication System built from scratch usin
 1. **Clone the repository:**
 
 ```bash
-git clone[https://github.com/CodeZelo/secure-php-auth.git
+git clone https://github.com/CodeZelo/secure-php-auth.git
 ```
 
 2. **Database Setup:**
