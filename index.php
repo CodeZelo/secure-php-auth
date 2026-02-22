@@ -39,10 +39,6 @@ if (isset($_POST['submit'])) {
 
     $errors = array_merge($errors, validate($rules, $data));
 
-    echo '<pre>';
-    var_dump($errors);
-    echo '</pre>';
-
     if (empty($errors)) {
         $result = auth_register($data);
 
