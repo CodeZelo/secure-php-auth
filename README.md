@@ -4,6 +4,18 @@ A professional-grade, modular User Authentication System built from scratch usin
 
 [Video Tutorial](https://youtu.be/R-Hs_qfc8Zw)
 
+## Screenshots
+
+![Light Register Page Screenshot](/screenshots/light-register.png "Light Register Page Screenshot")
+
+![Dark Register Page Screenshot](/screenshots/dark-register.png "Dark Register Page Screenshot")
+
+![Login Page Screenshot](/screenshots/login.png "Login Page Screenshot")
+
+![Login with validation form Screenshot](/screenshots/login-wirh-validation.png "Login with validation form Screenshot")
+
+![Dashboard Page Screenshot](/screenshots/dynamic-dashboard.png "Dashboard Page Screenshot")
+
 ## 🚀 Features
 
 - **Secure Registration:** Validates user inputs (email, password strength, matching confirmation) before persisting to the database.
