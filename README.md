@@ -3,6 +3,7 @@
 A professional-grade, modular User Authentication System built from scratch using Native PHP and MySQL. This project demonstrates clean coding practices, secure session management, and protection against common web vulnerabilities.
 
 [Video Tutorial](https://youtu.be/R-Hs_qfc8Zw)
+[Article Tutorial](https://codezelo.com/en/categories/projects/secure-php-auth/)
 
 ## Screenshots
 
